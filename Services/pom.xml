@@ -10,7 +10,7 @@
 	</parent>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<jackson.library>2.9.4</jackson.library>
+		<jackson.library>2.9.10.1</jackson.library>
 		<jersey2.version>2.19</jersey2.version>
 		<springframework.version>5.1.2.RELEASE</springframework.version>
 		<hibernate.version>5.4.0.Final</hibernate.version>
