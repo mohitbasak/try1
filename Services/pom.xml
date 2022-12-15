@@ -12,7 +12,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<jackson.library>2.9.4</jackson.library>
 		<jersey2.version>2.19</jersey2.version>
-		<springframework.version>5.1.2.RELEASE</springframework.version>
+		<springframework.version>5.2.20.RELEASE</springframework.version>
 		<hibernate.version>5.4.0.Final</hibernate.version>
 		<springsecurity.version>5.0.0.RELEASE</springsecurity.version>
 		<mysql.connector.version>8.0.13</mysql.connector.version>
